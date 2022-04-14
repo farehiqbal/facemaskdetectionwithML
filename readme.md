@@ -1,6 +1,6 @@
 # Face Mask Detection using Python and Machine Learning.
 
-= Created a fully fuctionaling face mask detector.
+- Created a fully fuctionaling face mask detector.
 - HAAR CASCADE algorithm is used in the CV2 module which determines if there is a face in frame or not.
 
 
