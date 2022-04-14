@@ -28,4 +28,4 @@ if there is face on the face or not.
 This is not the final version, Its still a draft to understand the working, I might update it in the future to add convenience to the program and get rid of uncommenting
 to enter the data.
 
-- In my case, the algorithm was 97% effective, it might differ in your case. There is a module whihc display the efficieny of the algorithm.
+- In my case, the algorithm was 97% effective, it might differ in your case. There is a module which displays the efficieny of the algorithm.
